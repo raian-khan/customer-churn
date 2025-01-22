@@ -5,7 +5,7 @@ This repository showcases a project on **Customer Churn Prediction** using a sim
 ---
 
 ## Dataset
-The dataset used in this project was sourced from Kaggle: [Bank Customer Churn Dataset](https://www.kaggle.com). It contains various customer attributes such as age, credit score, balance, etc., along with a target label indicating whether the customer churned (`1`) or not (`0`).
+The dataset used in this project was sourced from Kaggle: [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling). It contains various customer attributes such as age, credit score, balance, etc., along with a target label indicating whether the customer churned (`1`) or not (`0`).
 
 ---
 
